@@ -1,1 +1,1 @@
-selct
+selct;
